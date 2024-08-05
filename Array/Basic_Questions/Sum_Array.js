@@ -8,6 +8,6 @@ const sum_ForLoop = (arr) => {
   return sum;
 };
 
-const result = sum(arr);
+const result = sum_ForLoop(arr);
 
 console.log(result);
